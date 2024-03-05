@@ -20,6 +20,7 @@ def guess_the_number():
     """Main function for our program."""
 
     print("Think about a number in range 0-1000 and I'll guess it in max. 10 tries!")
+    print("Input 'too small' if my number is smaller than yours, 'too big' if my number is bigger or 'you won' if I guessed it!")
     print("Press 'Enter' to continue")
     input()
 
